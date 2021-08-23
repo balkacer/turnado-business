@@ -1,0 +1,1 @@
+export { default as TapModel } from "./generics/tap.model";
