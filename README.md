@@ -1,2 +1,2 @@
 # Turnado Business
-Turnado App in React Native.
+Turnado App to business
